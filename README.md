@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=700&size=24&pause=1000&color=377B11&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Imtiyaz)](https://git.io/typing-svg)nthusiastic & passionate FrontEnd developer skilled in React verse</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=700&size=24&pause=1000&color=377B11&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Imtiyaz)](https://git.io/typing-svg)
+<h3 align="center">I am an enthusiastic & passionate FrontEnd developer skilled in React verse</h3>
 - 🌱 I’m currently learning **Nextjs-13, Deno**
 
 - 👨‍💻 All of my projects are available at [https://mohammedimtiyaz-1-site-portfoio.netlify.app/](https://mohammedimtiyaz-1-site-portfoio.netlify.app/)
