@@ -11,10 +11,7 @@
 - 📫 How to reach me **mohammedimtiyaz.jk@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohammedimtiyaz-01/](https://www.linkedin.com/in/mohammedimtiyaz-01/)
-<br />
-<p align="center">
-<a  align="center" href="https://app.daily.dev/imtiyazDev"><img src="https://api.daily.dev/devcards/231e989aea654062a04d5485aff791fe.png?r=50o" width="400" alt="Mohammed IMTIYAZ-'s Dev Card"/></a>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,4 +59,9 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedimtiyaz-1&layout=compact&theme=dracula" />
 </a>
   
+</p>
+<br />
+<h2 align="center">What i Read Most... 💻</h2>
+<p align="center">
+<a align="center" href="https://app.daily.dev/imtiyazDev"><img align="center" src="https://api.daily.dev/devcards/231e989aea654062a04d5485aff791fe.png?r=50o" width="400" alt="Mohammed IMTIYAZ-'s Dev Card"/></a>
 </p>
