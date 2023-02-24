@@ -11,11 +11,17 @@
 - 📫 How to reach me **mohammedimtiyaz.jk@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohammedimtiyaz-01/](https://www.linkedin.com/in/mohammedimtiyaz-01/)
+<br />
+<p align="center">
+<a  align="center" href="https://app.daily.dev/imtiyazDev"><img src="https://api.daily.dev/devcards/231e989aea654062a04d5485aff791fe.png?r=50o" width="400" alt="Mohammed IMTIYAZ-'s Dev Card"/></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammedimtiyaz-01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammedimtiyaz-01/" height="30" width="40" /></a>
+
+<p ><a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammedimtiyaz-01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammedimtiyaz-01/" height="30" width="40" /></a>
 </p>
+<br />
 
 
 <h3 align="center">Languages and Tools:</h3>
