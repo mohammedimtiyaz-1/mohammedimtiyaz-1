@@ -45,25 +45,24 @@
 <br />
 <p align="center">
   
- <a href="https://github.com/mohammedimtiyaz-1/BlogWithSanityNext">
+ <a href="https://github.com/mohammedimtiyaz-1/news-board">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=BlogWithSanityNext&theme=dracula" />
 </a>
-  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=movieExplorer&theme=dracula" />
+ <a href="https://github.com/mohammedimtiyaz-1/movieExplorer">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=BlogWithSanityNext&theme=dracula" />
 </a>
+ <a href="https://github.com/mohammedimtiyaz-1/algoliasearch">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=BlogWithSanityNext&theme=dracula" />
+</a>
+ 
 </p>
 <h2 align="center">My Code Stats 💻</h2>
 <p align="center">
   
- <a href="https://github.com/mohammedimtiyaz-1/news-board">
+ <a href="https://github.com/mohammedimtiyaz-1">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedimtiyaz-1&layout=compact&theme=dracula" />
 </a>
-<a href="https://github.com/mohammedimtiyaz-1/movieExplorer">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedimtiyaz-1&layout=compact&theme=dracula" />
-</a>
-<a href="https://github.com/mohammedimtiyaz-1/algoliasearch">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedimtiyaz-1&layout=compact&theme=dracula" />
-</a>
+
   
 </p>
 <br />
