@@ -55,7 +55,13 @@
 <h2 align="center">My Code Stats 💻</h2>
 <p align="center">
   
- <a href="https://github.com/mohammedimtiyaz-1/BlogWithSanityNext">
+ <a href="https://github.com/mohammedimtiyaz-1/news-board">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedimtiyaz-1&layout=compact&theme=dracula" />
+</a>
+<a href="https://github.com/mohammedimtiyaz-1/movieExplorer">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedimtiyaz-1&layout=compact&theme=dracula" />
+</a>
+<a href="https://github.com/mohammedimtiyaz-1/algoliasearch">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedimtiyaz-1&layout=compact&theme=dracula" />
 </a>
   
