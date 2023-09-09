@@ -46,13 +46,13 @@
 <p align="center">
   
  <a href="https://github.com/mohammedimtiyaz-1/news-board">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=BlogWithSanityNext&theme=dracula" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=news-board&theme=dracula" />
 </a>
  <a href="https://github.com/mohammedimtiyaz-1/movieExplorer">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=BlogWithSanityNext&theme=dracula" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=movieExplorer&theme=dracula" />
 </a>
  <a href="https://github.com/mohammedimtiyaz-1/algoliasearch">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=BlogWithSanityNext&theme=dracula" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedimtiyaz-1&repo=algoliasearch&theme=dracula" />
 </a>
  
 </p>
