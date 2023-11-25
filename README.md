@@ -2,7 +2,7 @@
 <h3 align="center">I am an enthusiastic & passionate FrontEnd developer skilled in React verse</h3>
 - 🌱 I’m currently exploring different **Rendering patters** advacated by different *frameworks*. **Nextjs-13, Deno**
 
-- 👨‍💻 All of my projects are available at [https://mohammedimtiyaz-1-site-portfoio.netlify.app/](https://mohammedimtiyaz-1-site-portfoio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohammedimtiyaz-1-site-portfoio.netlify.app/](https://mohammedimtiyaz-dev.netlify.app/)
 
 - 📝 I regularly read articles on [medium dev MDN](medium dev MDN)
 
